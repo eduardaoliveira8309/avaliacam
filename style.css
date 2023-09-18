@@ -10,3 +10,19 @@ h1{
 img{
     width: 300px;
 }
+.cabecalho{
+    background-color: rgb(47, 164, 218);
+}
+.lista_cabecalho{
+    display:flex;
+    margin-left: 250px;
+}
+.item_lista_cabecalho{
+    color: aliceblue;
+    list-style: none;
+    text-align: uppercase;
+    font-size: 30px;
+    padding: 20px;
+}
+    
+
