@@ -2,20 +2,32 @@ body{
     background: rgb(255, 255, 255);
 }
 h1{
-    font-size: 600x;
-    color: rgb(15, 92, 192);
-    text-align: justify;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+    text-align: center;
 
 }
+p{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
 img{
     width: 300px;
+    height: 300px;
+    margin: 100px;
+    margin-left: 130px;
 }
 .cabecalho{
-    background-color: rgb(47, 164, 218);
+    background-color: rgb(0, 0, 0);
+    padding: 6px; 
+    display: flex;
 }
 .lista_cabecalho{
     display:flex;
     margin-left: 250px;
+    margin-top: 200px;
 }
 .item_lista_cabecalho{
     color: aliceblue;
